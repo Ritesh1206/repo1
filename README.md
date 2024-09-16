@@ -1,2 +1,3 @@
 # repo1
-my first repository
+This is my first repository
+Hi my name is ritesh
